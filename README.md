@@ -9,8 +9,8 @@
 
 ## Horario
 
-+ Profesor: Martes, jueves y viernes de 8:00 a 9:00 hrs.
-+ Ayudantías: Lunes y miércoles 8:00 a 9:00 hrs.
++ Profesor: Lunes, miércoles y viernes de 8:00 a 9:00 hrs.
++ Ayudantías: Martes y jueves 8:00 a 9:00 hrs.
 
 # 🚀 Presentación 🚀
 
