@@ -20,7 +20,7 @@ Gran parte del curso trabajará con el concepto de "anualidad", es por esto que 
 
 Como parte de la aplicación de abstracciones asociadas a flujos de efectivo, el curso también tiene como objetivo proporcionar al estudiante los elementos para la elaboración de tablas que reflejen los distintos procesos de amortización, el planteamiento y solución de problemas involucrados con el concepto de depreciación. También se estudian los temas de tasas de rendimiento y reinversión.
 
-La mayoría de los conceptos estudiados también se implementarán en en lenguaje de programación R (posit.co) como calculadora, graficador, optimizador y solver.
+La mayoría de los conceptos estudiados también se implementarán en los lenguajes de programación R (posit.co) y Python (colab.research.google.com) como calculadora, graficador, optimizador y solver.
 
 ## 🤓 Dinámica de las sesiones 🤓
 Las sesiones teóricas y prácticas se llevarán a cabo de manera síncrona de 8:00 a 9:00 de la mañana presencialmente (según las indicaciones de la Universidad). Toda comunicación e intercambio de archivos se llevará a cabo a través de Google Classroom (allí se distribuirán tareas, mensajes, notas de clase, etc). También se dejarán algunas lecturas y videos para reforzar lo visto durante la clase.\\
